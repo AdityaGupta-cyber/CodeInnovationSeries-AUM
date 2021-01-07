@@ -1,0 +1,16 @@
+CYGMA MEMBERS:-
+
+Aditya Gupta
+Isha Shrivastava
+Laksh Salian
+Preethika
+
+
+
+The motive of Our Project in this Hackathon is:-
+
+"Ways to increase security in Internet Banking."
+
+Since we are new into developing with little skills in this field our team have suggested the ideas
+by which the Internet Banking can be secured more than current majorly practiced methods in today's time.
+
